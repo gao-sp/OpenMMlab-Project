@@ -1,4 +1,4 @@
-# OpenMMLab 实战营第一次作业
+# OpenMMLab 实战营第二次作业
 ## 文件说明
  - [配置文件](myconfig/resnet50_fruit30.py)
  - [训练日志](work_dirs/20230612_001212/20230612_001212.log)
